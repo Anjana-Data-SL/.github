@@ -46,7 +46,7 @@ de la organización muestran lo que mantenemos activamente.
 
 - 🌍 Web: [anjanadata.com](https://anjanadata.com) · 📚 [Documentación](https://wiki.anjanadata.com/) · 🛟 [Soporte](https://support.portal.anjanadata.com/)
 - 🎯 [Solicita una demo](https://anjanadata.com/solicita-una-demo/) · ✉️ [info@anjanadata.com](mailto:info@anjanadata.com)
-- 🔒 Vulnerabilidades: escribe a [security@anjandata.com](mailto:security@anjandata.com) — por favor, no abras un issue público.
+- 🔒 Vulnerabilidades: escribe a [security@anjanadata.com](mailto:security@anjanadata.com) — por favor, no abras un issue público.
 
 ---
 
@@ -76,7 +76,7 @@ repositories show what we actively maintain.
 
 - 🌍 Web: [anjanadata.com](https://anjanadata.com) · 📚 [Documentation](https://wiki.anjanadata.com/) · 🛟 [Support](https://support.portal.anjanadata.com/)
 - 🎯 [Request a demo](https://anjanadata.com/solicita-una-demo/) · ✉️ [info@anjanadata.com](mailto:info@anjanadata.com)
-- 🔒 Vulnerabilities: email [security@anjandata.com](mailto:security@anjandata.com) — please do not open a public issue.
+- 🔒 Vulnerabilities: email [security@anjanadata.com](mailto:security@anjanadata.com) — please do not open a public issue.
 
 <div align="center">
 <sub>Anjana Data SL · Bilbao, España</sub>
