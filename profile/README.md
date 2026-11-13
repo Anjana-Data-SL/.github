@@ -9,7 +9,7 @@
 
 ### Data & AI Governance for everyone as it should be
 
-[🇪🇸 Español](#-español) · [🇬🇧 English](#-english)
+[🇪🇸 Español](#es) · [<img src="https://raw.githubusercontent.com/Anjana-Data-SL/.github/main/profile/ikurrina.svg" height="16" alt="Ikurriña"> Euskara](#eu) · [🇬🇧 English](#en)
 
 [![Web](https://img.shields.io/badge/web-anjanadata.com-2f6db5?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTEyIDJhMTQuNSAxNC41IDAgMCAwIDAgMjAgMTQuNSAxNC41IDAgMCAwIDAtMjAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjwvc3ZnPg%3D%3D)](https://anjanadata.com)
 [![Docs](https://img.shields.io/badge/docs-wiki.anjanadata.com-e8975a?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiA3djE0Ii8%2BPHBhdGggZD0iTTMgMThhMSAxIDAgMCAxLTEtMVY0YTEgMSAwIDAgMSAxLTFoNWE0IDQgMCAwIDEgNCA0IDQgNCAwIDAgMSA0LTRoNWExIDEgMCAwIDEgMSAxdjEzYTEgMSAwIDAgMS0xIDFoLTZhMyAzIDAgMCAwLTMgMyAzIDMgMCAwIDAtMy0zeiIvPjwvc3ZnPg%3D%3D)](https://wiki.anjanadata.com/)
@@ -19,6 +19,8 @@
 </div>
 
 ---
+
+<a id="es"></a>
 
 ## 🇪🇸 Español
 
@@ -46,9 +48,43 @@ de la organización muestran lo que mantenemos activamente.
 
 - 🌍 Web: [anjanadata.com](https://anjanadata.com) · 📚 [Documentación](https://wiki.anjanadata.com/) · 🛟 [Soporte](https://support.portal.anjanadata.com/)
 - 🎯 [Solicita una demo](https://anjanadata.com/solicita-una-demo/) · ✉️ [info@anjanadata.com](mailto:info@anjanadata.com)
-- 🔒 Vulnerabilidades: escribe a [security@anjanadata.com](mailto:security@anjanadata.com) — por favor, no abras un issue público.
+- 🔒 Vulnerabilidades: escribe a [security@anjanadata.com](mailto:security@anjanadata.com) — por favor, no abras un issue público ([política de seguridad](https://github.com/Anjana-Data-SL/.github/blob/main/SECURITY.md)).
 
 ---
+
+<a id="eu"></a>
+
+## <img src="https://raw.githubusercontent.com/Anjana-Data-SL/.github/main/profile/ikurrina.svg" height="16" alt="Ikurriña"> Euskara
+
+**Anjana Data** datuen eta adimen artifizialaren gobernantzan espezializatutako enpresa espainiarra da, Bilbon du egoitza.
+Erakundeei laguntzen diegu beren estrategiarekin eta araudiarekin bat datozen gobernantza-markoak diseinatzen,
+ezartzen eta operatzen, pertsonak, prozesuak eta teknologia uztartuz.
+
+### Anjana Data Platform
+
+Metadatuetan oinarritutako datuen, adimen artifizialaren eta agente bidezko adimen artifizialaren gobernantza-plataforma:
+
+| | |
+|---|---|
+| 🧩 **Teknologiarekiko agnostikoa** | Modularra eta API-first; sistema zaharrekin, hodeiarekin eta big data inguruneekin integratzen da. |
+| 🌐 **Datu-espazio subiranoak** | Ezagutza federatuaren merkatua, semantika- eta testuinguru-geruza baten gainean. |
+| 🤖 **Adimen artifizialaren gobernantza** | Ereduak eta agenteak datuen marko berarekin gobernatzen dira. |
+| ⚖️ **Estandarretara egokitua** | DAMA, DCAT-AP-ES eta AI Act (EBko adimen artifizialaren araudia). |
+
+### Hemen aurkituko duzuna
+
+Gure ingeniaritza-tresnen zati bat kode irekian argitaratzen dugu. Erakundeko biltegi finkatuek
+aktiboki mantentzen duguna erakusten dute.
+
+### Estekak
+
+- 🌍 Webgunea: [anjanadata.com](https://anjanadata.com) · 📚 [Dokumentazioa](https://wiki.anjanadata.com/) · 🛟 [Laguntza](https://support.portal.anjanadata.com/)
+- 🎯 [Eskatu demo bat](https://anjanadata.com/solicita-una-demo/) · ✉️ [info@anjanadata.com](mailto:info@anjanadata.com)
+- 🔒 Zaurgarritasunak: idatzi [security@anjanadata.com](mailto:security@anjanadata.com) helbidera — mesedez, ez ireki issue publikorik ([segurtasun-politika](https://github.com/Anjana-Data-SL/.github/blob/main/SECURITY.md)).
+
+---
+
+<a id="en"></a>
 
 ## 🇬🇧 English
 
@@ -76,7 +112,7 @@ repositories show what we actively maintain.
 
 - 🌍 Web: [anjanadata.com](https://anjanadata.com) · 📚 [Documentation](https://wiki.anjanadata.com/) · 🛟 [Support](https://support.portal.anjanadata.com/)
 - 🎯 [Request a demo](https://anjanadata.com/solicita-una-demo/) · ✉️ [info@anjanadata.com](mailto:info@anjanadata.com)
-- 🔒 Vulnerabilities: email [security@anjanadata.com](mailto:security@anjanadata.com) — please do not open a public issue.
+- 🔒 Vulnerabilities: email [security@anjanadata.com](mailto:security@anjanadata.com) — please do not open a public issue ([security policy](https://github.com/Anjana-Data-SL/.github/blob/main/SECURITY.md)).
 
 <div align="center">
 <sub>Anjana Data SL · Bilbao, España</sub>
