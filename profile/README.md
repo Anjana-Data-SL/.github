@@ -9,7 +9,7 @@
 
 ### Data & AI Governance for everyone as it should be
 
-[🇪🇸 Español](#es) · [<img src="https://raw.githubusercontent.com/Anjana-Data-SL/.github/main/profile/ikurrina.svg" height="16" alt="Ikurriña"> Euskara](#eu) · [🇬🇧 English](#en)
+[<img src="https://raw.githubusercontent.com/Anjana-Data-SL/.github/main/profile/flag-es.svg" height="14" alt="ES"> Español](#es) · [<img src="https://raw.githubusercontent.com/Anjana-Data-SL/.github/main/profile/ikurrina.svg" height="14" alt="EU"> Euskara](#eu) · [<img src="https://raw.githubusercontent.com/Anjana-Data-SL/.github/main/profile/flag-gb.svg" height="14" alt="EN"> English](#en)
 
 [![Web](https://img.shields.io/badge/web-anjanadata.com-2f6db5?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTEyIDJhMTQuNSAxNC41IDAgMCAwIDAgMjAgMTQuNSAxNC41IDAgMCAwIDAtMjAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjwvc3ZnPg%3D%3D)](https://anjanadata.com)
 [![Docs](https://img.shields.io/badge/docs-wiki.anjanadata.com-e8975a?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiA3djE0Ii8%2BPHBhdGggZD0iTTMgMThhMSAxIDAgMCAxLTEtMVY0YTEgMSAwIDAgMSAxLTFoNWE0IDQgMCAwIDEgNCA0IDQgNCAwIDAgMSA0LTRoNWExIDEgMCAwIDEgMSAxdjEzYTEgMSAwIDAgMS0xIDFoLTZhMyAzIDAgMCAwLTMgMyAzIDMgMCAwIDAtMy0zeiIvPjwvc3ZnPg%3D%3D)](https://wiki.anjanadata.com/)
@@ -22,7 +22,7 @@
 
 <a id="es"></a>
 
-## 🇪🇸 Español
+## <img src="https://raw.githubusercontent.com/Anjana-Data-SL/.github/main/profile/flag-es.svg" height="18" alt="ES"> Español
 
 **Anjana Data** es una empresa española de gobierno del dato y de la IA, con sede en Bilbao.
 Ayudamos a las organizaciones a diseñar, implantar y operar marcos de gobierno alineados con
@@ -54,7 +54,7 @@ de la organización muestran lo que mantenemos activamente.
 
 <a id="eu"></a>
 
-## <img src="https://raw.githubusercontent.com/Anjana-Data-SL/.github/main/profile/ikurrina.svg" height="16" alt="Ikurriña"> Euskara
+## <img src="https://raw.githubusercontent.com/Anjana-Data-SL/.github/main/profile/ikurrina.svg" height="18" alt="EU"> Euskara
 
 **Anjana Data** datuen eta adimen artifizialaren gobernantzan espezializatutako enpresa espainiarra da, Bilbon du egoitza.
 Erakundeei laguntzen diegu beren estrategiarekin eta araudiarekin bat datozen gobernantza-markoak diseinatzen,
@@ -86,7 +86,7 @@ aktiboki mantentzen duguna erakusten dute.
 
 <a id="en"></a>
 
-## 🇬🇧 English
+## <img src="https://raw.githubusercontent.com/Anjana-Data-SL/.github/main/profile/flag-gb.svg" height="18" alt="EN"> English
 
 **Anjana Data** is a Spanish data and AI governance company headquartered in Bilbao.
 We help organizations design, implement and operate governance frameworks aligned with
